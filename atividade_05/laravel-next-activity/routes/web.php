@@ -1,0 +1,55 @@
+<?php
+
+use Illuminate\Support\Facades\Route;
+
+use App\Http\Controllers\AlunoController;
+use App\Http\Controllers\TurmaController;
+
+
+
+Route::get('/', function () {
+    return view('welcome');
+});
+
+Auth::routes();
+
+Route::get('/home', [App\Http\Controllers\HomeController::class, 'index'])->name('home');
+
+Route::resource('alunos', AlunoController::class);
+Route::resource('turmas', TurmaController::class);
+Auth::routes();
+
+Route::get('/home', [App\Http\Controllers\HomeController::class, 'index'])->name('home');
+
+Auth::routes();
+
+Route::get('/home', [App\Http\Controllers\HomeController::class, 'index'])->name('home');
+
+Auth::routes();
+
+Route::get('/home', [App\Http\Controllers\HomeController::class, 'index'])->name('home');
+
+Auth::routes();
+
+Route::get('/home', [App\Http\Controllers\HomeController::class, 'index'])->name('home');
+
+
+use App\Http\Controllers\CategoryController;
+Route::resource('categories', CategoryController::class);
+
+use App\Http\Controllers\AuthorController;
+Route::resource('authors', AuthorController::class);
+
+use App\Http\Controllers\PublisherController;
+Route::resource('publishers', PublisherController::class);
+
+use App\Http\Controllers\BookController;
+
+// Rotas customizadas para criação
+Route::get('/books/create-id', [BookController::class, 'createWithId'])->name('books.create.id');
+Route::post('/books/create-id', [BookController::class, 'storeWithId'])->name('books.store.id');
+Route::get('/books/create-select', [BookController::class, 'createWithSelect'])->name('books.create.select');
+Route::post('/books/create-select', [BookController::class, 'storeWithSelect'])->name('books.store.select');
+
+// Rotas RESTful padrão (exceto create/store)
+Route::resource('books', BookController::class)->except(['create', 'store']);

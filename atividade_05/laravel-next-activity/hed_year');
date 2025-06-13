@@ -1,0 +1,225 @@
+[90m= [39m[34;4mIlluminate\Database\Eloquent\Collection[39;24m {#6173
+    [34mall[39m: [
+      [34;4mApp\Models\Publisher[39;24m {#6217
+        [34mid[39m: [35m1[39m,
+        [34mname[39m: "[32mWalter, Reinger and Kovacek[39m",
+        [34maddress[39m: """
+          [32m144 Petra Well Suite 063[39m\n
+          [32mAdelleton, NJ 92646[39m
+          """,
+        [34mcreated_at[39m: "[32m2025-06-13 21:06:47[39m",
+        [34mupdated_at[39m: "[32m2025-06-13 21:06:47[39m",
+        [34mbooks_count[39m: [35m0[39m,
+      },
+      [34;4mApp\Models\Publisher[39;24m {#6218
+        [34mid[39m: [35m2[39m,
+        [34mname[39m: "[32mDoyle-Reichert[39m",
+        [34maddress[39m: """
+          [32m6918 Daugherty Club Suite 135[39m\n
+          [32mPort Dion, DC 59758[39m
+          """,
+        [34mcreated_at[39m: "[32m2025-06-13 21:06:47[39m",
+        [34mupdated_at[39m: "[32m2025-06-13 21:06:47[39m",
+        [34mbooks_count[39m: [35m0[39m,
+      },
+      [34;4mApp\Models\Publisher[39;24m {#6219
+        [34mid[39m: [35m3[39m,
+        [34mname[39m: "[32mDietrich, Barton and Mayert[39m",
+        [34maddress[39m: """
+          [32m23645 Kemmer Unions[39m\n
+          [32mLake Diegoside, IN 40649-4467[39m
+          """,
+        [34mcreated_at[39m: "[32m2025-06-13 21:06:47[39m",
+        [34mupdated_at[39m: "[32m2025-06-13 21:06:47[39m",
+        [34mbooks_count[39m: [35m0[39m,
+      },
+      [34;4mApp\Models\Publisher[39;24m {#6220
+        [34mid[39m: [35m4[39m,
+        [34mname[39m: "[32mGoyette Ltd[39m",
+        [34maddress[39m: """
+          [32m555 Kunze Orchard[39m\n
+          [32mKonopelskiville, NY 61939[39m
+          """,
+        [34mcreated_at[39m: "[32m2025-06-13 21:06:47[39m",
+        [34mupdated_at[39m: "[32m2025-06-13 21:06:47[39m",
+        [34mbooks_count[39m: [35m0[39m,
+      },
+      [34;4mApp\Models\Publisher[39;24m {#6221
+        [34mid[39m: [35m5[39m,
+        [34mname[39m: "[32mFarrell, Pfeffer and Witting[39m",
+        [34maddress[39m: """
+          [32m700 Elinore Cove[39m\n
+          [32mGersonland, NH 63739[39m
+          """,
+        [34mcreated_at[39m: "[32m2025-06-13 21:06:47[39m",
+        [34mupdated_at[39m: "[32m2025-06-13 21:06:47[39m",
+        [34mbooks_count[39m: [35m0[39m,
+      },
+      [34;4mApp\Models\Publisher[39;24m {#6222
+        [34mid[39m: [35m6[39m,
+        [34mname[39m: "[32mFahey-Grant[39m",
+        [34maddress[39m: """
+          [32m321 Rogahn Avenue[39m\n
+          [32mPort Shaniaton, DC 20843[39m
+          """,
+        [34mcreated_at[39m: "[32m2025-06-13 21:06:47[39m",
+        [34mupdated_at[39m: "[32m2025-06-13 21:06:47[39m",
+        [34mbooks_count[39m: [35m0[39m,
+      },
+      [34;4mApp\Models\Publisher[39;24m {#6223
+        [34mid[39m: [35m7[39m,
+        [34mname[39m: "[32mFeil, Waters and Doyle[39m",
+        [34maddress[39m: """
+          [32m310 Reilly Island[39m\n
+          [32mSouth Rogelio, TN 81675[39m
+          """,
+        [34mcreated_at[39m: "[32m2025-06-13 21:06:47[39m",
+        [34mupdated_at[39m: "[32m2025-06-13 21:06:47[39m",
+        [34mbooks_count[39m: [35m0[39m,
+      },
+      [34;4mApp\Models\Publisher[39;24m {#6224
+        [34mid[39m: [35m8[39m,
+        [34mname[39m: "[32mGreen-Crona[39m",
+        [34maddress[39m: """
+          [32m909 Elody Burgs[39m\n
+          [32mQuigleyborough, LA 22259[39m
+          """,
+        [34mcreated_at[39m: "[32m2025-06-13 21:06:47[39m",
+        [34mupdated_at[39m: "[32m2025-06-13 21:06:47[39m",
+        [34mbooks_count[39m: [35m0[39m,
+      },
+      [34;4mApp\Models\Publisher[39;24m {#6225
+        [34mid[39m: [35m9[39m,
+        [34mname[39m: "[32mGraham-Howell[39m",
+        [34maddress[39m: """
+          [32m329 Casimer Corner[39m\n
+          [32mNew Eltonborough, WV 61369[39m
+          """,
+        [34mcreated_at[39m: "[32m2025-06-13 21:06:47[39m",
+        [34mupdated_at[39m: "[32m2025-06-13 21:06:47[39m",
+        [34mbooks_count[39m: [35m0[39m,
+      },
+      [34;4mApp\Models\Publisher[39;24m {#6226
+        [34mid[39m: [35m10[39m,
+        [34mname[39m: "[32mRobel Ltd[39m",
+        [34maddress[39m: """
+          [32m71653 Vickie Burgs[39m\n
+          [32mLake Angelitatown, NM 32242-8941[39m
+          """,
+        [34mcreated_at[39m: "[32m2025-06-13 21:06:47[39m",
+        [34mupdated_at[39m: "[32m2025-06-13 21:06:47[39m",
+        [34mbooks_count[39m: [35m0[39m,
+      },
+      [34;4mApp\Models\Publisher[39;24m {#6227
+        [34mid[39m: [35m11[39m,
+        [34mname[39m: "[32mKertzmann and Sons[39m",
+        [34maddress[39m: """
+          [32m32160 Kirlin Mountain Apt. 232[39m\n
+          [32mNorth Monastad, IA 01649-3290[39m
+          """,
+        [34mcreated_at[39m: "[32m2025-06-13 21:06:48[39m",
+        [34mupdated_at[39m: "[32m2025-06-13 21:06:48[39m",
+        [34mbooks_count[39m: [35m1[39m,
+      },
+      [34;4mApp\Models\Publisher[39;24m {#6228
+        [34mid[39m: [35m12[39m,
+        [34mname[39m: "[32mCrist, Trantow and McKenzie[39m",
+        [34maddress[39m: """
+          [32m676 Zita Glen[39m\n
+          [32mAnsleyland, HI 08788[39m
+          """,
+        [34mcreated_at[39m: "[32m2025-06-13 21:06:48[39m",
+        [34mupdated_at[39m: "[32m2025-06-13 21:06:48[39m",
+        [34mbooks_count[39m: [35m1[39m,
+      },
+      [34;4mApp\Models\Publisher[39;24m {#6229
+        [34mid[39m: [35m13[39m,
+        [34mname[39m: "[32mAdams-Fadel[39m",
+        [34maddress[39m: """
+          [32m293 Sipes Turnpike[39m\n
+          [32mLake Brandofurt, MI 58972[39m
+          """,
+        [34mcreated_at[39m: "[32m2025-06-13 21:06:48[39m",
+        [34mupdated_at[39m: "[32m2025-06-13 21:06:48[39m",
+        [34mbooks_count[39m: [35m1[39m,
+      },
+      [34;4mApp\Models\Publisher[39;24m {#6230
+        [34mid[39m: [35m14[39m,
+        [34mname[39m: "[32mWeber-Cummings[39m",
+        [34maddress[39m: """
+          [32m88189 Gaetano Bypass[39m\n
+          [32mMaggiotown, WV 11920-7718[39m
+          """,
+        [34mcreated_at[39m: "[32m2025-06-13 21:06:48[39m",
+        [34mupdated_at[39m: "[32m2025-06-13 21:06:48[39m",
+        [34mbooks_count[39m: [35m1[39m,
+      },
+      [34;4mApp\Models\Publisher[39;24m {#6231
+        [34mid[39m: [35m15[39m,
+        [34mname[39m: "[32mBradtke-Roberts[39m",
+        [34maddress[39m: """
+          [32m96659 Kreiger Cliffs Apt. 376[39m\n
+          [32mPort Vivianebury, KS 95995-6671[39m
+          """,
+        [34mcreated_at[39m: "[32m2025-06-13 21:06:48[39m",
+        [34mupdated_at[39m: "[32m2025-06-13 21:06:48[39m",
+        [34mbooks_count[39m: [35m1[39m,
+      },
+      [34;4mApp\Models\Publisher[39;24m {#6232
+        [34mid[39m: [35m16[39m,
+        [34mname[39m: "[32mStiedemann-Strosin[39m",
+        [34maddress[39m: """
+          [32m521 Schmidt Avenue Suite 420[39m\n
+          [32mMaxwellburgh, MN 97455-3022[39m
+          """,
+        [34mcreated_at[39m: "[32m2025-06-13 21:06:48[39m",
+        [34mupdated_at[39m: "[32m2025-06-13 21:06:48[39m",
+        [34mbooks_count[39m: [35m1[39m,
+      },
+      [34;4mApp\Models\Publisher[39;24m {#6233
+        [34mid[39m: [35m17[39m,
+        [34mname[39m: "[32mKling-Mertz[39m",
+        [34maddress[39m: """
+          [32m936 Leuschke Loaf[39m\n
+          [32mSouth Garrick, RI 44167-6998[39m
+          """,
+        [34mcreated_at[39m: "[32m2025-06-13 21:06:48[39m",
+        [34mupdated_at[39m: "[32m2025-06-13 21:06:48[39m",
+        [34mbooks_count[39m: [35m1[39m,
+      },
+      [34;4mApp\Models\Publisher[39;24m {#6234
+        [34mid[39m: [35m18[39m,
+        [34mname[39m: "[32mTorphy, Kunde and Brakus[39m",
+        [34maddress[39m: """
+          [32m84503 Samanta Vista Suite 660[39m\n
+          [32mAshleyport, IN 71115[39m
+          """,
+        [34mcreated_at[39m: "[32m2025-06-13 21:06:48[39m",
+        [34mupdated_at[39m: "[32m2025-06-13 21:06:48[39m",
+        [34mbooks_count[39m: [35m1[39m,
+      },
+      [34;4mApp\Models\Publisher[39;24m {#6235
+        [34mid[39m: [35m19[39m,
+        [34mname[39m: "[32mKub, Parker and Hilpert[39m",
+        [34maddress[39m: """
+          [32m82171 Boehm Cliffs[39m\n
+          [32mBodefort, MA 53130[39m
+          """,
+        [34mcreated_at[39m: "[32m2025-06-13 21:06:48[39m",
+        [34mupdated_at[39m: "[32m2025-06-13 21:06:48[39m",
+        [34mbooks_count[39m: [35m1[39m,
+      },
+      [34;4mApp\Models\Publisher[39;24m {#6236
+        [34mid[39m: [35m20[39m,
+        [34mname[39m: "[32mHartmann, Lemke and Runolfsson[39m",
+        [34maddress[39m: """
+          [32m571 Grayce Summit[39m\n
+          [32mHesselchester, ND 24178-4026[39m
+          """,
+        [34mcreated_at[39m: "[32m2025-06-13 21:06:48[39m",
+        [34mupdated_at[39m: "[32m2025-06-13 21:06:48[39m",
+        [34mbooks_count[39m: [35m1[39m,
+      },
+    ],
+  }
+
